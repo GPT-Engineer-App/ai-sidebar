@@ -1,6 +1,6 @@
 # chatgpt-sidebar
 
-a chrome extension that allows me to use ChatGPT or Claude.ai in the sidebar
+a chrome extension that allows use of ChatGPT or Claude.ai in the sidebar
 
 ## Collaborate with GPT Engineer
 
