@@ -1,15 +1,15 @@
 {
-    "manifest_version": 3,
-    "name": "AI Sidebar",
-    "version": "1.0",
-    "permissions": ["activeTab", "scripting", "sidePanel"],
-    "action": {
-      "default_title": "Open Sidebar"
-    },
-    "side_panel": {
-      "default_path": "sidebar.html"
-    },
-    "background": {
-      "service_worker": "background.js"
-    }
+  "manifest_version": 3,
+  "name": "AI Sidebar",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting", "sidePanel"],
+  "action": {
+    "default_title": "Open Sidebar"
+  },
+  "side_panel": {
+    "default_path": "sidebar.html"
+  },
+  "background": {
+    "service_worker": "background.js"
   }
+}
